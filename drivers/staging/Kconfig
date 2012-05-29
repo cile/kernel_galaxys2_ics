@@ -104,6 +104,8 @@ source "drivers/staging/iio/Kconfig"
 
 source "drivers/staging/cs5535_gpio/Kconfig"
 
+source "drivers/staging/snappy/Kconfig"
+
 source "drivers/staging/zram/Kconfig"
 
 source "drivers/staging/zcache/Kconfig"
@@ -137,8 +139,6 @@ source "drivers/staging/quickstart/Kconfig"
 source "drivers/staging/westbridge/Kconfig"
 
 source "drivers/staging/sbe-2t3e3/Kconfig"
-
-source "drivers/staging/ath6kl/Kconfig"
 
 source "drivers/staging/keucr/Kconfig"
 
